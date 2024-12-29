@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-29T13:19:41 IST" name="Default suite" finished-at="2024-12-29T13:20:26 IST" duration-ms="45135">
+    <groups>
+    </groups>
+    <test started-at="2024-12-29T13:19:41 IST" name="Default test" finished-at="2024-12-29T13:20:26 IST" duration-ms="45135">
+      <class name="com.tests.AdminClassTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tests.AdminClassTest@53aad5d5]" started-at="2024-12-29T13:19:41 IST" name="setUp" finished-at="2024-12-29T13:19:48 IST" duration-ms="6495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.tests.AdminClassTest@53aad5d5]" started-at="2024-12-29T13:19:48 IST" name="login" finished-at="2024-12-29T13:19:51 IST" duration-ms="3650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="getLeftSidemenuOptions()[pri:1, instance:com.tests.AdminClassTest@53aad5d5]" started-at="2024-12-29T13:19:51 IST" name="getLeftSidemenuOptions" finished-at="2024-12-29T13:19:58 IST" duration-ms="6868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLeftSidemenuOptions -->
+        <test-method signature="searchByUsername()[pri:2, instance:com.tests.AdminClassTest@53aad5d5]" started-at="2024-12-29T13:19:58 IST" name="searchByUsername" finished-at="2024-12-29T13:20:05 IST" duration-ms="6580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByUsername -->
+        <test-method signature="searchByRole()[pri:3, instance:com.tests.AdminClassTest@53aad5d5]" started-at="2024-12-29T13:20:05 IST" name="searchByRole" finished-at="2024-12-29T13:20:16 IST" duration-ms="10616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByRole -->
+        <test-method signature="searchByUserStatus()[pri:4, instance:com.tests.AdminClassTest@53aad5d5]" started-at="2024-12-29T13:20:16 IST" name="searchByUserStatus" finished-at="2024-12-29T13:20:26 IST" duration-ms="10645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByUserStatus -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.tests.AdminClassTest@53aad5d5]" started-at="2024-12-29T13:20:26 IST" name="afterClass" finished-at="2024-12-29T13:20:26 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.tests.AdminClassTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
